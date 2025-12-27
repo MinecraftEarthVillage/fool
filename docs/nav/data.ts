@@ -336,6 +336,12 @@ export const NAV_DATA: NavData[] = [
         desc: '出售账号，找回再循环出售',
         link: '/article/北秋',
       },
+       {
+        icon: 'https://www.emojiall.com/images/120/joypixels/0033-20e3.png',
+        title: '三人传',
+        desc: '每个圈子都有属于自己的三人传（什）',
+        link: '/article/西普3',
+      },
     ],
   },
   {
