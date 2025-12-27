@@ -330,6 +330,12 @@ export const NAV_DATA: NavData[] = [
         desc: '本人在线时长还没有代打的久',
         link: '/article/赵宇',
       },
+      {
+        icon: '',
+        title: '北秋传',
+        desc: '出售账号，找回再循环出售',
+        link: '/article/北秋',
+      },
     ],
   },
   {
